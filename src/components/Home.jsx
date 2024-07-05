@@ -100,9 +100,9 @@ function Home() {
                 </article>
 
                 <div className="flex gap-5 items-center text-3xl justify-evenly md:justify-start w-full">
-                    <a href="https://x.com/home" className="hover:text-Color duration-200"><BsTwitter /> </a>
-                    <a href="https://www.linkedin.com/feed/" className="hover:text-Color duration-200"><BsLinkedin /> </a>
-                    <a href="https://github.com/Techie-Gautam" className="hover:text-Color duration-200"><BsGithub /> </a>
+                    <a href="https://x.com/home" target="_blank" className="hover:text-Color duration-200"><BsTwitter /> </a>
+                    <a href="https://www.linkedin.com/feed/" target="_blank" className="hover:text-Color duration-200"><BsLinkedin /> </a>
+                    <a href="https://github.com/Techie-Gautam" target="_blank" className="hover:text-Color duration-200"><BsGithub /> </a>
                     <a href="" className="hover:text-Color duration-200"><BsInstagram /> </a>
                 </div>
 
